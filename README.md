@@ -1,7 +1,7 @@
 ## Hi there! I am Asfiya Misba
 
 
-Welcome to my GitHub profile! I'm a passionate Computer Science graduate from The University of Texas at Arlington. My focus is on **Machine Learning**, **Data Science**, and **Web Development**. I enjoy building applications that solve real-world problems, and I'm always learning new technologies to enhance my skills.
+Welcome to my GitHub profile! I'm a passionate Computer Science graduate from The University of Texas at Arlington. I enjoy building applications that solve real-world problems, and I'm always learning new technologies to enhance my skills.
 
 ## 💻 About Me
 
@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science graduate from Th
 
 ## 📫 How to Reach Me
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/asfiyamisba/) or check out my other repositories for more projects!
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/asfiyamisba/)
 
 ---
 
