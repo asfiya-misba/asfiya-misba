@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science graduate from Th
 
 - 🎓 **Master of Science in Computer Science** from UTA (Specialization: Intelligent Systems, Software Engineering)
 - 🔍 Researching **telecom-specific LLM adaptation** for domain applications and optimizing signal-strength-based pathfinding models
-- 🧠 Enthusiastic about **Machine Learning** in healthcare
 - 🛠️ Proficient in **Python**, **Java**, **JavaScript**, **C++**, and frameworks like **React.js**, **Node.js**, **Django**
 - 🚀 Experienced with **cloud computing**, **database management**, and **full-stack web development**
 
